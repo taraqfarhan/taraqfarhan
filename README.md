@@ -1,4 +1,6 @@
-- Hi, I’m @taraqfarhan
-- I’m interested in building softwares
-- I’m currently learning C++, Python and trying to develop some basic apps using Flutter and Python
+- Hi, I’m Taraq Farhan
+- I’m interested in backend stuffs
+- I believe in learning by building. So I’m currently spending my time on projects in Python and C++
+- I've decided to learn Go after I get comfortable with Python
+- I love the command line, that's so sick
 - How to reach me : email (taraqfarhan@gmail.com), Linkedin (https://www.linkedin.com/in/taraq-farhan/), Twitter/X (https://x.com/taraqfarhan)
