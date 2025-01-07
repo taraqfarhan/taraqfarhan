@@ -4,7 +4,7 @@
 - I've decided to learn Go after I get comfortable with Python
 - I love the command line, that's so sick
 
-How to reach me (it's actually @taraqfarhan everywhere)
+How to reach me (it's actually **@taraqfarhan** everywhere)
 1. Email (taraqfarhan@gmail.com)
 2. Linkedin (https://www.linkedin.com/in/taraq-farhan/)
 3. Twitter/X (https://x.com/taraqfarhan)
