@@ -5,7 +5,11 @@
 - Once I’m comfortable with Python, I plan to dive into **Go** (Golang)
 
 
+
+
 > How to reach me (it's actually **@taraqfarhan** everywhere) and my email is taraqfarhan@gmail.com
+
+
 
 
 ### Tech Stack
