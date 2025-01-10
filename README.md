@@ -5,12 +5,8 @@
 - Once I’m comfortable with Python, I plan to dive into **Go** (Golang)
 
 
-> How to reach me (it's actually **@taraqfarhan** everywhere)
+> How to reach me (it's actually **@taraqfarhan** everywhere) and my email is (taraqfarhan@gmail.com)
 
-+ Email (taraqfarhan@gmail.com)
-+ Linkedin (https://www.linkedin.com/in/taraq-farhan/)
-+ Twitter/X (https://x.com/taraqfarhan)
-+ Facebook (https://www.facebook.com/taraqfarhan
 
 ### Tech Stack
 
