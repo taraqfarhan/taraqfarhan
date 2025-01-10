@@ -5,13 +5,14 @@
 - Once I’m comfortable with Python, I plan to dive into **Go** (Golang)
 
 
-How to reach me (it's actually **@taraqfarhan** everywhere)
+> How to reach me (it's actually **@taraqfarhan** everywhere)
 
-1. Email (taraqfarhan@gmail.com)
-2. Linkedin (https://www.linkedin.com/in/taraq-farhan/)
-3. Twitter/X (https://x.com/taraqfarhan)
-4. Facebook (https://www.facebook.com/taraqfarhan
++ Email (taraqfarhan@gmail.com)
++ Linkedin (https://www.linkedin.com/in/taraq-farhan/)
++ Twitter/X (https://x.com/taraqfarhan)
++ Facebook (https://www.facebook.com/taraqfarhan
 
+### Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
