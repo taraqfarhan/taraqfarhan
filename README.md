@@ -1,6 +1,6 @@
 ### Hiii, I’m Taraq Farhan
-- I’m interested in backend development, devops & sysadmin and love exploring how systems work under the hood.
-- The command line is my favorite tool. It's sleek, powerful, and just plain awesome!
+- I’m interested in backend development, devops & sysadmin stuffs and love exploring how systems work under the hood.
+- The command line (UNIX ofc) is my favorite. It's sleek, powerful, and just plain awesome!
 - I’m currently spending my time on projects using **Python**, **Bash** and **C++** as Feynman said, "what I can not build, i can not understand". He didn't say this lol
 - Once I’m comfortable with Python, I plan to dive into **Go** (Golang)
 
