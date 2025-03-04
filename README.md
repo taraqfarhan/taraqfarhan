@@ -1,5 +1,6 @@
 ### Hiii, I’m Taraq Farhan
-- I’m interested in backend, devops & sysadmin stuffs as I love exploring how any system work under the hood.
+- I’m interested in backend, cyber, devops & sysadmin stuffs as I love exploring how any system work under the hood.
+- Occasionally I love to exploit the vulnerabilities of a system.
 - The command line (UNIX ofc) is my favorite. It's sleek, powerful, and just plain awesome!
 - I’m currently spending my time on projects using **Python**, **Bash** and **C++** as Feynman said, "what I can not build, i can not understand". He didn't say this lol!
 - Once I’m comfortable with Python, I plan to dive into **Go** (Golang)
