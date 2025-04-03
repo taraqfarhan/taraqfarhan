@@ -5,4 +5,5 @@
 - I do CTFs btw
 
 
-> How to reach me? It's actually **@taraqfarhan** everywhere (literally everywhere) and my email is taraqfarhan@gmail.com
+> How to reach me? It's actually **@taraqfarhan** everywhere (literally everywhere)
+> emails: farhandaniels189@gmail.com (personal), taraqfarhan@gmail.com (professional)
