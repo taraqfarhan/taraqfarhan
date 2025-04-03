@@ -1,6 +1,5 @@
-### Howdy, I'm Taraq Farhan
+## Howdy, I'm Taraq Farhan
 
-- Self Certified `Script Kiddie`
 - Interested in hacking, backend, cloud, devops & system administration
 - I do CTFs btw
 
