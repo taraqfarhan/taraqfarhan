@@ -1,4 +1,4 @@
-## Howdy, I'm Taraq Farhan
+## Howdy, I'm Taraq (pronounced `Tareq`)
 
 - Interested in hacking, backend, cloud, devops & system administration
 - I play CTFs btw
