@@ -1,4 +1,4 @@
-## Howdy, I'm Taraq (pronounced Tareq)
+## Hey, I'm Taraq (pronounced Tareq)
 
 - Interested in hacking, backend, cloud, devops & system administration
 - I waste my time solving [LeetCode](https://leetcode.com/u/taraqfarhan) problems nowadays
