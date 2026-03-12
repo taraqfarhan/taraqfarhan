@@ -1,6 +1,6 @@
 ## Hey, I'm Taraq (pronounced Tareq)
 
-- Interested in hacking, backend, cloud, devops & system administration
+- Interested in hacking, backend, cloud & system administration
 - I waste my time solving [LeetCode](https://leetcode.com/u/taraqfarhan) problems nowadays
 - I used to play CTFs on [TryHackMe](https://tryhackme.com/p/taraqfarhan)
 - How to reach me? It's actually **@taraqfarhan** everywhere (literally everywhere)
