@@ -1,8 +1,8 @@
 ## Hey, I'm Taraq (pronounced Tareq)
 
-- Hacker and Backend Developer
-- I hack websites on [HackerOne](https://hackerone.com/taraqfarhan) and [BugCrowd](https://bugcrowd.com/h/taraqfarhan)
-- Wasted some of my times solving [LeetCode](https://leetcode.com/u/taraqfarhan) problems
+- Hacker cum Backend Developer
+- I hack websites on [HackerOne](https://hackerone.com/taraqfarhan)
+- Used to waste my time solving [LeetCode](https://leetcode.com/u/taraqfarhan) problems
 - Used to play CTFs on [TryHackMe](https://tryhackme.com/p/taraqfarhan)
 - How to reach me? It's actually **@taraqfarhan** everywhere (literally everywhere)
 
